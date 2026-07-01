@@ -103,43 +103,22 @@ Applied feature transformation and scaling before clustering.
 
 ---
 
-## Current Progress
+##Final progress
 
-* [x] Business Understanding
-* [x] Data Understanding
-* [x] Data Cleaning
-* [x] Exploratory Data Analysis
-* [x] Revenue Feature Engineering
-* [x] RFM Feature Engineering
-* [x] Feature Scaling
-* [x] Elbow Method
-* [x] K-Means Clustering
-* [ ] Customer Segment Interpretation
-* [ ] Retention Strategy Recommendations
-* [ ] Churn Prediction
-* [ ] Streamlit Dashboard
-
----
-
-## Repository Structure
-
-```
-customer-segmentation-retention-analysis/
-│
-├── data/
-├── notebooks/
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+*  Business Understanding
+*  Data Understanding
+*  Data Cleaning
+*  Exploratory Data Analysis
+*  Revenue Feature Engineering
+*  RFM Feature Engineering
+*  Feature Scaling
+*  Elbow Method
+*  K-Means Clustering
+*  Customer Segment Interpretation
+*  Retention Strategy Recommendations
+*  Churn Prediction
+*  Streamlit Dashboard
 
 ---
 
-## Future Improvements
-
-* Business interpretation of customer segments
-* Customer retention recommendations
-* Customer churn prediction using machine learning
-* Interactive Streamlit dashboard
-* Model evaluation and deployment
 
